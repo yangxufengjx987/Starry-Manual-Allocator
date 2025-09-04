@@ -2,6 +2,7 @@
   "Version": "1.3",
   "ID": "f1ytpjruronyqmtsejjp5e3kxzn2jlgtlgveq4wui",
   "Issue Number": "3",
+  "Client Contract Address": "f410f3c2w7pddqspukzxex577bcsri2zyc3k2dmzw6ai",
   "Client": {
     "Name": "Hunan Tumode Technology",
     "Region": "China",
@@ -35,15 +36,25 @@
     "Weekly Allocation": "2PiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2025-09-04 12:50:13.797508961 UTC",
+    "Validated By": "yangxufengjx987",
     "Active": true,
-    "Updated At": "2025-09-04 09:20:48.556229511 UTC",
-    "Active Request ID": "",
+    "Updated At": "2025-09-04 12:50:13.797512827 UTC",
+    "Active Request ID": "d77a4dbb-e61e-4213-a714-c4fc665e3e81",
     "On Chain Address": "f1ytpjruronyqmtsejjp5e3kxzn2jlgtlgveq4wui",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "d77a4dbb-e61e-4213-a714-c4fc665e3e81",
+      "Request Type": "First",
+      "Created At": "2025-09-04 12:50:13.797515395 UTC",
+      "Updated At": "2025-09-04 12:50:13.797516473 UTC",
+      "Active": true,
+      "Allocation Amount": "219902325555200 B",
+      "Signers": []
+    }
+  ]
 }
